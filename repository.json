@@ -1,5 +1,5 @@
 {
-  "name": "Modbus Proxy Repository",
-  "url": "https://github.com/Akulatraxas/ha-modbusproxy",
-  "maintainer": "Julian Jost <julian@jost-online.eu>"
+  "name": "SEC Modbus Proxy Repository",
+  "url": "https://github.com/smartenergycontrol-be/ha-modbusproxy",
+  "maintainer": "Steven Cruysberghs <steven@smartenergycontrol.be>"
 }
